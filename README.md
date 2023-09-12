@@ -1,6 +1,6 @@
 ## ![](wave.png) Welcome to my projects
 
-My name is Ojeen Gammah senior Computer Scientist at University of California San diego, graduating this fall 2023.![](g.png) 
+My name is Ojeen Gammah senior Computer Scientist at University of California San diego, graduating this Fall of 2023.![](g.png) 
 
 ## 🔧 Technologies & Tools
 
