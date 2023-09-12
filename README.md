@@ -12,13 +12,6 @@ My name is Ojeen Gammah senior Computer Scientist at University of California Sa
 ![](java.png)
 ![](unix-linux.png) Linux/Unix
 
-
-## 🎮 Cool Game
-
-Description about the cool game. Maybe it's a browser game you made, or something else that can be presented or linked here.
-
-[Play Now!](#link-to-your-game)
-
 ## 🌐 Connect with me
 
 [![Twitter Logo](link.png)](https://www.linkedin.com/in/ojeengammah/)
