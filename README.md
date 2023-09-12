@@ -25,5 +25,3 @@ Description about the cool game. Maybe it's a browser game you made, or somethin
 [![Gmail!](gmail.png)](mailto:ogammah@ucsd.edu)
 [![Website](w.png)Website coming soon]()
 
-
-![Animation](1.gif)
