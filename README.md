@@ -19,6 +19,8 @@ My name is Ojeen Gammah, senior Computer Scientist at University of California S
 
 ![Ojeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeengammah&show_icons=true&theme=radical)
 
+![Ojeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeengammah&show_icons=true&theme=radical)
+
 ## 🌐 Connect with me
 
 [![Twitter Logo](link.png)](https://www.linkedin.com/in/ojeengammah/)
