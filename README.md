@@ -1,8 +1,8 @@
-## ![](wave.png) Welcome to my projects
+## Hi there ![](wave.png), Welcome to my projects
 
-My name is Ojeen Gammah senior Computer Scientist at University of California San diego, graduating this Fall of 2023.![](g.png) 
+My name is Ojeen Gammah, senior Computer Scientist at University of California San diego, graduating this Fall of 2023.![](g.png). Highly creative computer science undergraduate student with strong interests in software and Machine Learning. Professional experience with the technologies listed in the **Toolbox** below. Looking for an intern/work position to develop software and gain experience in the industry. Strong background in problem solving, adaptability, communication, and creativity.
 
-## 🔧 Technologies & Tools
+## 🔧 Toolbox
 
 ![](html,png.png)
 ![](javascript.png)
@@ -11,6 +11,13 @@ My name is Ojeen Gammah senior Computer Scientist at University of California Sa
 ![](c.png) 
 ![](java.png)
 ![](unix-linux.png) Linux/Unix
+![](git.png)
+![](node.png)
+![](css.png) 
+
+## ![](stock.png) My GitHub Stats
+
+![Ojeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeengammah&show_icons=true&theme=radical)
 
 ## 🌐 Connect with me
 
