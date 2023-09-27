@@ -23,5 +23,6 @@ My name is Ojeen Gammah, Senior Computer Scientist at the University of Californ
 
 [![Twitter Logo](link.png)](https://www.linkedin.com/in/ojeengammah/)
 [![Gmail!](gmail.png)](mailto:ogammah@ucsd.edu)
-[![Website](https://ojeengammah.com/)]()
+[![Website](w.png)](https://ojeengammah.com/)
+
 
