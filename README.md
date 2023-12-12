@@ -1,6 +1,6 @@
 ## Hi there ![](wave.png), Welcome to my projects
 
-My name is Ojeen Gammah, Senior Computer Scientist at the University of California San Diego, graduating this Fall of 2023. Highly creative computer science undergraduate student with a strong interest in software and full stack and web development. Professional experience with the technologies listed in the **Toolbox**  below. Looking for an intern/work position to develop software and gain experience in the industry. Strong background in problem-solving, adaptability, communication, and creativity. *|[Resume](CV.pdf)|*
+My name is Ojeen Gammah, recent graduate Computer Scientist from University of California San Diego, graduating. Highly creative computer science undergraduate student with a strong interest in software and full stack and web development. Professional experience with the technologies listed in the **Toolbox**  below. Looking for an intern/work position to develop software and gain experience in the industry. Strong background in problem-solving, adaptability, communication, and creativity. *|[Resume](CV.pdf)|*
 
 ## 🔧 Toolbox
 
