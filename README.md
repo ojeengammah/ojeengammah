@@ -62,4 +62,4 @@ https://ojeengammah.com
 https://linkedin.com/in/ojeengammah
 
 📫 **Email**  
-your@email.com
+ojeenjamma96@gmail.com
