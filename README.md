@@ -1,28 +1,65 @@
-<!-- ## Hi there ![](wave.png), Welcome to my projects
+# Hi, I'm Ojeen Gammah 👋
 
-My name is Ojeen Gammah, recent graduate Computer Scientist from University of California San Diego, graduating. Highly creative computer science undergraduate student with a strong interest in software and full stack and web development. Professional experience with the technologies listed in the **Toolbox**  below. Looking for a work position to develop software and gain experience in the industry. Strong background in problem-solving, adaptability, communication, and creativity. *|[Resume](CV.pdf)|*
+### Software Engineer
 
-## 🔧 Toolbox
+I build scalable software solutions with a focus on Python, frontend & backend development, cloud technologies, and GIS automation.
 
-![](html,png.png)
-![](javascript.png)
-![](python.png) 
-![](c++.png)
-![](c.png) 
-![](java.png)
-![](unix-linux.png) Linux/Unix
-![](git.png)
-![](node.png)
-![](css.png) 
+---
 
-## ![](stock.png) My GitHub Stats
+## 👨‍💻 About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeengammah&show_icons=true&theme=dark)
+- 💼 Software Engineer at TSAC Engineering
+- 🐍 Python Developer
+- ☁️ Azure Cloud & Azure Functions
+- 🌐 Frontend & Backend Development
+- 🌎 GIS & Geospatial Systems
+- ✈️ FAA Part 107 Certified Remote Pilot
 
-## 🌐 Connect with me
+---
 
-[![Twitter Logo](link.png)](https://www.linkedin.com/in/ojeengammah/)
-[![Gmail!](gmail.png)](mailto:ogammah@ucsd.edu)
-[![Website](w.png)](https://ojeengammah.com/)
--->
+## 🛠️ Tech Stack
 
+**Languages**
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
+- C#
+
+**Cloud & Backend**
+- Microsoft Azure
+- Azure Functions
+- REST APIs
+- Git
+- Linux
+
+**Data & GIS**
+- ArcGIS Pro
+- ArcGIS Online
+- Survey123
+- Pandas
+- NumPy
+
+---
+
+## 🚀 What I'm Working On
+
+- Cloud Automation
+- Backend Development
+- Engineering Software
+- GIS Applications
+- Data Processing Pipelines
+
+---
+
+## 🌐 Connect
+
+🌍 **Portfolio**  
+https://ojeengammah.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/ojeengammah
+
+📫 **Email**  
+your@email.com
